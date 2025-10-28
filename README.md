@@ -1,5 +1,3 @@
-# srma
-
 <a id="readme-top"></a>
 <!-- 1 PROJECT SHIELDS -->
 
@@ -84,6 +82,38 @@ This repository will function as a cloud storage for an on-going SR/MA project a
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+| Site Links  |
+| :-------- |
+| [Systematic Review][systematic review] | 
+| &nbsp;&nbsp;[Protocol][protocol] | 
+| &nbsp;&nbsp;[Search Strategy][search strategy] |   
+| &nbsp;&nbsp;[Search][search] | 
+| &nbsp;&nbsp;[Deduplication][deduplication]   |
+| &nbsp;&nbsp;[Screening][screening]  |
+| &nbsp;&nbsp;&nbsp;&nbsp;[Title and Abstract Screening][title and abstract screening]  |
+| &nbsp;&nbsp;&nbsp;&nbsp;[Full-text Screening][full-text screening]  |
+| [Data Collection][data collection]  |
+| &nbsp;&nbsp;[Study Information][study information]  |
+| &nbsp;&nbsp;[Study Characteristics][study characteristics]  |
+| &nbsp;&nbsp;[Study Results][study results]  |
+| [Meta-Analysis][meta-analysis]  |
+| [Manuscript][manuscript]  |
+
+[systematic review]: https://github.com/dong-wkim/srma/tree/master/systematic%20review
+[protocol]: https://github.com/dong-wkim/srma/tree/master/systematic%20review/example/protocol
+[search strategy]: https://github.com/dong-wkim/srma/tree/master/systematic%20review/example/search_strategy
+[search]: https://github.com/dong-wkim/srma/tree/master/systematic%20review/example/search
+[deduplication]: https://github.com/dong-wkim/srma/tree/master/systematic%20review/example/deduplication
+[screening]: https://github.com/dong-wkim/srma/tree/master/systematic%20review/examplescreening
+[title and abstract screening]: https://github.com/dong-wkim/srma/tree/master/systematic%20review/example/screening/title_and_abstract
+[full-text screening]: https://github.com/dong-wkim/srma/tree/master/systematic%20review/example/screening/full_text
+[data collection]:https://github.com/dong-wkim/srma/tree/master/data
+[study information]: https://github.com/dong-wkim/srma/tree/master/data/study_information.csv
+[study characteristics]: https://github.com/dong-wkim/srma/tree/master/data/study_characteristics.csv
+[study results]: https://github.com/dong-wkim/srma/tree/master/data/study_results.csv
+[meta-analysis]: https://github.com/dong-wkim/srma/tree/master/meta-analysis
+[manuscript]: https://github.com/dong-wkim/srma/tree/master/manuscript
+
 ## Protocol
 ### Protocol Development
 ### Protocol Registration
@@ -112,7 +142,3 @@ This repository will function as a cloud storage for an on-going SR/MA project a
 
 
 -->
-
-
-
-
