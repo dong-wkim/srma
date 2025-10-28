@@ -20,7 +20,7 @@
 <br />
 <div align="center">
   <a href="https://dongwkim.com">
-    <img src="images/logo1.png" alt="Logo" width="80" height="80">
+    <img src=".assets/.img/logo1.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Dong Woon Kim</h3>
@@ -76,7 +76,7 @@
 
 <div align="center">
 	<a href="https://github.com/dong-wkim/srma">
-		<img src="images/logo3.png" alt="Logo" width="400" height="400">
+		<img src=".assets/.img/logo3.png" alt="Logo" width="400" height="400">
 	</a>
 </div>
 

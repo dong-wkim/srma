@@ -1,0 +1,20 @@
+# hello.* matches any file or directory starting with hello..
+# foo/ matches a directory named foo and all paths underneath it.
+# **/foo matches foo in any directory
+# abc/** matches all files inside the abc directory with infinite depth.
+# If changes do not occur, use: 
+# git rm -r --cached .
+# Then .\sync.ps1
+
+
+.vs/
+.ipynb_checkpoints*
+sync.ps1
+master.docx
+**.docx
+.templates/
+issues/
+.git
+docs/
+
+
