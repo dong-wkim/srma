@@ -6,15 +6,8 @@
 # git rm -r --cached .
 # Then .\sync.ps1
 
-
-.vs/
 .ipynb_checkpoints*
 sync.ps1
-master.docx
-**.docx
-.templates/
-issues/
-.git
-docs/
+
 
 
